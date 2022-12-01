@@ -1,0 +1,30 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>象棋助手</title>
+        <link>https://cca.yhdm360.cn</link>
+        <description>最近更新</description>
+
+        <language>zh</language>
+        <item>
+            <title>0.5.0版本全新发布</title>
+            <link>https://cca.yhdm360.cn</link>
+            <description>
+                <![CDATA[ 
+                    <ul> 
+                        <li>支持东萍UBB棋谱导入导出</li>
+                        <li>注解新增Markdown语法支持</li>
+                        <li>增加繁体中文语言支持</li>
+                        <li>若干优化</li>
+                    </ul> 
+                ]]>
+            </description>
+            <pubDate>Thursday, Oct 27, 2022 18:40:00 +0800</pubDate>
+            <enclosure url="http://localhost:5000/0.4.0+1/air_controller-0.4.0+1-macos.zip"
+                sparkle:os="macos"
+                type="application/octet-stream"
+                sparkle:version="51"
+                sparkle:shortVersionString="0.5.0+1"
+                sparkle:edSignature="qK47jt5uChWok2vy9ypyUz2XRqZj8ef1TW1SDvHTtiXJrU80LGjpPyzVlFk/pXO65mec9MBvHrve/RVQ364JCA==" length="84898017"/>
+        </item>
+    </channel>
+</rss>
